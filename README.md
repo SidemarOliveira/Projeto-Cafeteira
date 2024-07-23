@@ -3,6 +3,9 @@
 </div>
 <br>
 <h2>Site personalizado para clientes que possuem cafeteria e gostaria de apresentar seus produtos para seus clientes.</h2>
+<br>
 <h3>📌Tecnologias utilizadas:</h3>
+<p><img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white> </p>
+<p></p><img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white> </p>
 
 <img src=https://raw.githubusercontent.com/SidemarOliveira/Projeto-Cafeteira/3ec592ce4d821a5459dc105a37e7695ffb5d61a6/assets/image%20cafe.png>
